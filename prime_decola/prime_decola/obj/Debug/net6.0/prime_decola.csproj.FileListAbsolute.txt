@@ -1,0 +1,15 @@
+C:\Users\Alexandre\source\repos\prime_decola\prime_decola\bin\Debug\net6.0\prime_decola.exe
+C:\Users\Alexandre\source\repos\prime_decola\prime_decola\bin\Debug\net6.0\prime_decola.deps.json
+C:\Users\Alexandre\source\repos\prime_decola\prime_decola\bin\Debug\net6.0\prime_decola.runtimeconfig.json
+C:\Users\Alexandre\source\repos\prime_decola\prime_decola\bin\Debug\net6.0\prime_decola.dll
+C:\Users\Alexandre\source\repos\prime_decola\prime_decola\bin\Debug\net6.0\ref\prime_decola.dll
+C:\Users\Alexandre\source\repos\prime_decola\prime_decola\bin\Debug\net6.0\prime_decola.pdb
+C:\Users\Alexandre\source\repos\prime_decola\prime_decola\obj\Debug\net6.0\prime_decola.csproj.AssemblyReference.cache
+C:\Users\Alexandre\source\repos\prime_decola\prime_decola\obj\Debug\net6.0\prime_decola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre\source\repos\prime_decola\prime_decola\obj\Debug\net6.0\prime_decola.AssemblyInfoInputs.cache
+C:\Users\Alexandre\source\repos\prime_decola\prime_decola\obj\Debug\net6.0\prime_decola.AssemblyInfo.cs
+C:\Users\Alexandre\source\repos\prime_decola\prime_decola\obj\Debug\net6.0\prime_decola.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\source\repos\prime_decola\prime_decola\obj\Debug\net6.0\prime_decola.dll
+C:\Users\Alexandre\source\repos\prime_decola\prime_decola\obj\Debug\net6.0\ref\prime_decola.dll
+C:\Users\Alexandre\source\repos\prime_decola\prime_decola\obj\Debug\net6.0\prime_decola.pdb
+C:\Users\Alexandre\source\repos\prime_decola\prime_decola\obj\Debug\net6.0\prime_decola.genruntimeconfig.cache
